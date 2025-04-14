@@ -17,8 +17,35 @@ Sensibiliser les développeurs et les utilisateurs aux risques de l'attaque brut
 - HTML / CSS
 - MySQL
 
-## 📷 Capture d'écran
+## 📷 Captures d'écran
 
-*(Tu peux ajouter une image ici si tu en as une :)*
+### 🏠 Interface d'accueil
+![Accueil](images/accueil.png)
+
+---
+
+### 🔓 Formulaire vulnérable
+![Formulaire vulnérable](images/formulaire_vulnerable.png)
+
+---
+
+### ✅ Accès à la page vulnérable après brute force
+![Page vulnérable accessible](images/page_vulnerable.png)
+
+---
+
+### 🔐 Formulaire sécurisé
+![Formulaire sécurisé](images/formulaire_securise.png)
+
+---
+
+### ❌ Échec d'authentification sur le formulaire sécurisé
+![Échec sur page sécurisée](images/echec_securise.png)
+
+---
+
+### 🧪 Test du script d'attaque brute force
+![Test du script](images/test_script.png)
+
 
 ```md
